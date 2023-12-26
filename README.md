@@ -4,5 +4,12 @@
 - I'm a passionate programmer.
 - I love to learn new tools to solve hard problems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🛠 Tools I use
+
+### **Front End:**
+![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+
+### **Back End:**
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+### **Other:**
+![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
