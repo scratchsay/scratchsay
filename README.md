@@ -1,5 +1,6 @@
 <h1>👋Hi!</h1>
 
+**About me**
 - I'm currently learning C++ for USACO.
 - I'm a passionate programmer.
 - I love to learn new tools to solve hard problems.
