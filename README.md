@@ -3,7 +3,6 @@
 <img align="top" src="https://th.bing.com/th/id/OIG.f8oOsiruLzb2RzSeSx1P?pid=ImgGn" width="500" height="500" />
 
 # About me
-<img align="right" src="https://assets.awwwards.com/awards/external/2017/12/5a3136be50443.jpg" width="300" height="200" />
 
 - I'm currently learning C++ for USACO.
 
