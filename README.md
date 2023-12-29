@@ -1,10 +1,14 @@
-![Full developer](https://cdn-kehhb.nitrocdn.com/iEJFLbwsQHQzpVjXnwXhzYxhRIedkADp/assets/images/optimized/rev-a193d68/devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)
+# Hello developers<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>
 
-<h1>👋Hi!</h1>
+<img align="top" src="https://th.bing.com/th/id/OIG.f8oOsiruLzb2RzSeSx1P?pid=ImgGn" width="500" height="500" />
 
-**About me**
+# About me
+<img align="right" src="https://assets.awwwards.com/awards/external/2017/12/5a3136be50443.jpg" width="300" height="200" />
+
 - I'm currently learning C++ for USACO.
+
 - I'm a passionate programmer.
+
 - I love to learn new tools to solve hard problems.
 
 ## 🛠 Tools I use
