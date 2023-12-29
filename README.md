@@ -1,4 +1,4 @@
-# Hello developers<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0017F7&vCenter=true&random=false&width=435&lines=Hello+developers)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>
 
 <img align="top" src="https://th.bing.com/th/id/OIG.f8oOsiruLzb2RzSeSx1P?pid=ImgGn" width="500" height="500" />
 
