@@ -4,7 +4,7 @@
 
 # About me
 
-- I'm currently learning C++ for USACO. (PUSH)
+- I'm currently learning C++ for USACO.
 
 - I'm a passionate programmer.
 
