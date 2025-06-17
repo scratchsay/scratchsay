@@ -14,7 +14,7 @@
 
 I'm not a professional developer. I just enjoy experimenting with code, learning cool things, and occasionally building random projects for fun.
 
-> ⚡ I believe in doing real things with real code.
+> ⚡ I butterfly click at 20 cps.
 
 ---
 
