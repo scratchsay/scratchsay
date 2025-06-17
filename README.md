@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>Developer | Thinker | Creator</em>
+  <em>Hobby Developer | Thinker | Creator</em>
 </p>
 
 ---
