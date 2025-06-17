@@ -1,21 +1,46 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0017F7&vCenter=true&random=false&width=435&lines=Hello+developers)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/scratchsay/scratchsay/main/scratchsay.png" width="200" alt="scratchsay logo"/>
+  <br>
+  Hi there, I'm Scratchsay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+</h1>
 
-<img align="top" src="https://raw.githubusercontent.com/scratchsay/scratchsay/main/scratchsay.png" width="500" height="500" />
+<p align="center">
+  <em>Developer | Thinker | Creator</em>
+</p>
 
-# About me
+---
 
-- I'm currently learning C++ for USACO.
+## 🛠️ About Me
 
-- I'm a passionate programmer.
+I'm not a professional developer. I just enjoy experimenting with code, learning cool things, and occasionally building random projects for fun.
 
-- I love to learn new tools to solve hard problems.
+> ⚡ I believe in doing real things with real code.
 
-## 🛠 Tools I use
+---
 
-### **Front End:**
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+## ✨ GitHub Stats
 
-### **Back End:**
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-### **Other:**
-![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+<p align="left">
+  <a href="https://github.com/scratchsay?tab=followers">
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/scratchsay?color=blue&label=Followers&logo=person-add&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/scratchsay?tab=repositories&sort=stargazers">
+    <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/scratchsay?color=yellow&label=Stars&logo=star&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🔧 Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: [@scratchsay](https://github.com/scratchsay)
