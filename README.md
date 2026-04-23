@@ -1,6 +1,6 @@
 # scratchsay
 
-## 📚 Currently Reading
+## 📚 Books Read
 - *Respect for Acting* — Uta Hagen
 
 ## 🛠️ Skillset
