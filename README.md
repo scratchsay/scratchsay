@@ -4,7 +4,7 @@
 - *Respect for Acting* — Uta Hagen
 
 ## 🛠️ Skillset
-- Improv Reps: < Total>
-  - Gifts: 6
-  - Safe Plays: 4
-  - Scene Killers: 0
+- Improv Reps: <40 Total>
+  - Gifts: 6 + 27
+  - Safe Plays: 4 + 3
+  - Scene Killers: 0 + 0
